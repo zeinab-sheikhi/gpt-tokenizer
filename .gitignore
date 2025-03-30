@@ -4,3 +4,4 @@ images/
 test.py
 *.json
 *.bpe
+*.txt
