@@ -5,3 +5,5 @@ test.py
 *.json
 *.bpe
 *.txt
+*.model
+*.vocab
